@@ -1,0 +1,30 @@
+html,
+body,
+.body {
+  background: #ffffff !important;
+  background-color: #ffffff !important;
+}
+
+.header {
+  background: #ffffff;
+  background-color: #ffffff;
+  & > tbody > tr > th {
+    padding: 5px !important;
+  }
+  .logo {
+    & > tbody > tr > th {
+      padding: 0 0 20px !important;
+    }
+    img {
+      width: 100%;
+    }
+  }
+  .percent_off {
+    & > tbody > tr > th {
+      padding: 0 0 10px !important;
+    }
+    img {
+      width: 100%;
+    }
+  }
+}
