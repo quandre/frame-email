@@ -89,3 +89,59 @@ body,
     }
   }
 }
+
+.footer {
+  & > tbody > tr > th {
+    padding: 10px 5px 0 !important;
+  }
+  .link-boxs {
+    .app-link {
+      width: 100%;
+    }
+    .reward-link {
+      width: 100%;
+    }
+  }
+  .social-links {
+    & > tbody > tr > th {
+      padding-bottom: 0 !important;
+    }
+    .social-group {
+      max-width: 300px !important;
+      width: 100% !important;
+      .columns {
+        padding: 0 6px !important;
+      }
+      .instagram {
+        max-width: 31px ;
+        min-width: 20px ;
+        padding: 8px ;
+      }
+      .youtube {
+        max-width: 34px ;
+        min-width: 20px ;
+        padding: 8px ;
+      }
+      .facebook {
+        max-width: 34px ;
+        min-width: 20px ;
+        padding: 8px ;
+      }
+      .twitter {
+        max-width: 34px ;
+        min-width: 20px ;
+        padding: 8px ;
+      }
+      .snapchat {
+        max-width: 33px ;
+        min-width: 13px ;
+        padding: 8px ;
+      }
+      .f21-app {
+        max-width: 33px ;
+        min-width: 13px ;
+        padding: 8px ;
+      }
+    }
+  }
+}
