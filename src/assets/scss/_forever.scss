@@ -11,19 +11,80 @@ body,
   & > tbody > tr > th {
     padding: 5px !important;
   }
-  .logo {
+  .header-top {
     & > tbody > tr > th {
       padding: 0 0 20px !important;
+    }
+    .logo {
+      width: 100%;
+    }
+  }
+  .header-bottom {
+    & > tbody > tr > th {
+      padding: 0 0 10px !important;
+    }
+    .seventy-off-long-img {
+      width: 100%;
+    }
+  }
+}
+
+.promotional {
+  & > tbody > tr > th {
+    padding: 0 5px 0 !important;
+  }
+  .hero {
+    & > tbody > tr > th {
+      padding-bottom: 0 !important;
+    }
+    .hero-img {
+      width: 100%;
+    }
+  }
+  .three-sm-boxs {
+    .columns {
+      padding: 0;
     }
     img {
       width: 100%;
     }
   }
-  .percent_off {
-    & > tbody > tr > th {
-      padding: 0 0 10px !important;
+  .two-long-one-big {
+    .columns {
+      padding: 0;
     }
-    img {
+    .top {
+      img {
+        width: 100%;
+      }
+    }
+    .bottom {
+      img {
+        width: 100%;
+      }
+    }
+  }
+  .shop-now {
+    & > tbody > tr > th {
+      padding-bottom: 0 !important;
+    }
+    .shop-now-img {
+      width: 100%;
+    }
+  }
+  .bogo-dollar {
+    & > tbody > tr > th {
+      padding-bottom: 10px !important;
+    }
+    .bogo-dollar-img {
+      width: 100%;
+    }
+  }
+  .seventy-off-md {
+    & > tbody > tr > th {
+      padding-bottom: 20px !important;
+    }
+    .seventy-off-md-img {
       width: 100%;
     }
   }
