@@ -24,3 +24,45 @@
     }
   }
 }
+
+.deals {
+  & > tbody > tr > th {
+    padding: 0 !important;
+  }
+  .five-off {
+    & > tbody > tr > th {
+      padding: 0 !important;
+    }
+    .five-off-img {
+      width: 100%;
+    }
+  }
+  .deal-items {
+    .columns {
+      padding: 0 !important;
+    }
+    .top {
+      & > tbody > tr > th {
+        padding: 0 !important;
+      }
+    }
+    .bottom {
+      & > tbody > tr > th {
+        padding: 0 !important;
+      }
+    }
+    img {
+      width: 100% !important;
+      height: auto !important;
+    }
+  }
+  .dg-pick-up {
+    img {
+      width: 100%;
+    }
+  }
+}
+
+.footer {
+
+}
