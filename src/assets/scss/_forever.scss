@@ -21,7 +21,7 @@ body,
   }
   .header-bottom {
     & > tbody > tr > th {
-      padding: 0 0 10px !important;
+      padding: 0 !important;
     }
     .seventy-off-long-img {
       width: 100%;
@@ -43,7 +43,7 @@ body,
   }
   .three-sm-boxs {
     .columns {
-      padding: 0;
+      padding: 0 !important;
     }
     img {
       width: 100%;
@@ -51,7 +51,7 @@ body,
   }
   .two-long-one-big {
     .columns {
-      padding: 0;
+      padding: 0 !important;
     }
     .top {
       img {
@@ -110,7 +110,6 @@ body,
     }
     .social-group {
       .columns {
-        padding: 0 10px !important;
         width: 200px !important;
       }
       .instagram {

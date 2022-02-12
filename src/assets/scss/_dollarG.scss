@@ -65,7 +65,7 @@
 
 .dollar-footer {
   & > tbody > tr > th {
-    padding: 0 !important;
+    padding: 10px 0 !important;
   }
   .social-area {
     & > tbody > tr > th {
@@ -78,6 +78,7 @@
       .icon {
         max-width: 60px !important;
         width: 100% !important;
+        padding-bottom: 10px;
       }
     }
   }
