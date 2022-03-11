@@ -1,0 +1,149 @@
+{
+  "logo1": {
+    "image": "",
+    "linkToLogo": ""
+  },
+
+  "weekendSales": {
+    "image": "",
+    "linkToDeal": ""
+  },
+
+  "threeItemsRow1": {
+    "image1": "",
+    "linkToDeal1": "",
+
+    "image2": "",
+    "linkToDeal2": "",
+
+    "image3": "",
+    "linkToDeal3": ""
+  },
+
+  "twoMedOneBigColumn": {
+    "image1": "",
+    "linkToDeal1": "",
+
+    "image2": "",
+    "linkToDeal2": "",
+
+    "image3": "",
+    "linkToDeal3": "",
+
+    "image4": "",
+    "linkToDeal4": ""
+  },
+
+  "threeItemsRow2": {
+    "image1": "",
+    "linkToDeal1": "",
+
+    "image2": "",
+    "linkToDeal2": "",
+
+    "image3": "",
+    "linkToDeal3": ""
+  },
+
+  "shopNowBanner": {
+    "image": "",
+    "linkToBanner": ""
+  },
+
+  "boGO": {
+    "image": "",
+    "linkToDeal": ""
+  },
+
+  "flashSale": {
+    "image": "",
+    "linkToBanner": ""
+  },
+
+  "appLinks": {
+    "image1": "",
+    "linkToApp1": "",
+
+    "image2": "",
+    "linkToApp2": ""
+  },
+
+  "rewardCard": {
+    "image": "",
+    "linkToCard": ""
+  },
+
+  "socialLinks": {
+    "image1": "",
+    "linkToSocial1": "",
+
+    "image2": "",
+    "linkToSocial2": "",
+
+    "image3": "",
+    "linkToSocial3": "",
+
+    "image4": "",
+    "linkToSocial4": "",
+
+    "image5": "",
+    "linkToSocial5": "",
+
+    "image6": "",
+    "linkToSocial6": ""
+  },
+
+  "blackBar1": {
+    "image": "",
+    "link": ""
+  },
+
+  "logo2": {
+    "image": "",
+    "linkToLogo": ""
+  },
+
+  "blackBar2": {
+    "image": "",
+    "link": ""
+  },
+
+  "location": {
+    "image": "",
+    "link": ""
+  },
+
+  "textBox1": {
+    "boldText1": "",
+    "text1": "",
+
+    "boldText2": "",
+    "text2": "",
+
+    "boldText3": "",
+    "text3": "",
+
+    "boldText4": "",
+    "text4": "",
+
+    "text5": ""
+  },
+
+  "textBox2": {
+    "text1": "",
+    "textLink1": "",
+
+    "boldText2": "",
+    "text2": "",
+
+    "boldText3": "",
+    "text3": "",
+
+    "text4": "",
+
+    "text5": "",
+    "textLink5": "",
+
+    "text6": ""
+  }
+}

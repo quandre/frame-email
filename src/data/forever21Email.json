@@ -1,4 +1,112 @@
 {
-    "title": " "
+  "forever-header": {
+    "logo": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/bcc016ee-765d-5eeb-48a2-6886389fe502.png",
+
+    "linkToLogo": "https://click.i.forever21.com/u/?qs=2a509f83cb739d8505f46175124b3333006a2ed7dba7c3a25060837927c725e40a9167edd8c5956a4944aca31b98ad8603d64f2ca96e34253f5dbca88195a977",
+
+    "image": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/85fa80f5-a601-a73d-267c-6403d4f29b9f.jpg",
+
+    "linkToDeal": "https://click.i.forever21.com/u/?qs=2a509f83cb739d8592562862eb5a2f5b1a3d36fdc9e764b5157968730f5bb17e23f68965aeb10fd07f1eb39b6c52f1fa7daf399a9709365465a4f377eff3dde9"
+  },
+
+  "hero": {
+    "image": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/16b9e469-f4d0-3001-4166-ddc81c03e432.jpg",
+    "linkToDeal": "https://click.i.forever21.com/u/?qs=2a509f83cb739d851207494c80a65bb4542398645702c8686e00d5c500bac630da5d7b41bbe26bc9e790735ff75639472f7b4879682bba91ba0abf94e2f95a9f"
+  },
+
+  "threeSmBoxRow1": {
+    "image1": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/2a188e7e-341f-fb5f-02a2-cf8c1f4d65b4.jpg",
+    "linkToDeal1": "https://click.i.forever21.com/u/?qs=2a509f83cb739d85d91ad6cdf18f4d5edec2f7541fbdf34d52a00452dca0e8a8100f9ed9b13f227a0e4d1931533251d3e3c93c413d31e029a4ed216762234df3",
+
+    "image2": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/568e5689-c5f6-8d4c-03b0-c22ad19fb4d1.jpg",
+    "linkToDeal2": "https://click.i.forever21.com/u/?qs=2a509f83cb739d853082f580319031691da77dc223f2fe29b51b9909eb13ae1284f7e81c4cdf47d591880c24b977483819d232e0286a82258d4d880c2b93f736",
+
+    "image3": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/b57451e2-0984-41b8-bbb1-3fe6487a6899.jpg",
+    "linkToDeal3": "https://click.i.forever21.com/u/?qs=2a509f83cb739d85155a384ce86fe25c7b8370c646295193c114b16b2ca69a2b396b53b7a14abc5e9efa46afd2e4fc6ad44dc07941f391a8481c5a35ad60229e"
+  },
+
+  "twoLongOneBig": {
+    "image1": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/7c7a7b61-869e-ec04-e3f0-324648376bfd.jpg",
+    "linkToDeal1": "https://click.i.forever21.com/u/?qs=2a509f83cb739d8563467a9bb978cacac4bb51d3ab2c27842977aa801e4002af54dd3ff7c1f670250f0163691785497527e8d4abad85c6079d23fdd7460f7d87",
+
+    "image2": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/4d029364-89dd-f51d-0d63-2375e6480811.jpg",
+    "linkToDeal2": "https://click.i.forever21.com/u/?qs=2a509f83cb739d85bc2d628010027bcc3ab5b4fb8650a7a401e426529b046862e6f1e962b3cf1d30a72bfdf3b231c05aa0d71cea0b06d67cd3d686ea1fdbee76",
+
+    "image3": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/f90ef4a2-6a3e-a129-f569-1c6321196050.jpg",
+    "linkToDeal3": "https://click.i.forever21.com/u/?qs=2a509f83cb739d85b2172e8ee318e5c5ff1ce31ea7036ecfaea7447013264b2c653faf018892e50515a762b09c29dc9eec00dca55923eccc340dcbd738fa62c5",
+
+    "image4": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/26a47c89-3fd2-3181-9a2a-c429f89c46bf.jpg",
+    "linkToDeal4": "https://click.i.forever21.com/u/?qs=2a509f83cb739d850ae2a31bcf055310cdc6d108008efdd80555f21abe3a3a8a68edba1b040c8a72e86c2632729b053e5a1cc9ffffeed5367f0108b5b959dc79"
+  },
+
+  "threeSmBoxRow2": {
+    "image1": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/b1c28516-33d4-b02b-b082-3a80596f3e09.jpg",
+    "linkToDeal1": "https://click.i.forever21.com/u/?qs=2a509f83cb739d85e9db676278aa236a7537d8b12c03a2cd7aff657477d990597d8ff6750a1debc411d9b31c707a9ef4c651921f70e9cc5c7068c8f70944412a",
+
+    "image2": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/c248daa9-f9c2-5bc5-d354-bb6ffc145943.jpg",
+    "linkToDeal2": "https://click.i.forever21.com/u/?qs=2a509f83cb739d855617a359e3b15b9be130cdc1a1c8caca9de8030dd709990243c999393c2f3b79fb4ab6fdc25f6366d5d41b031b8814d5a21285a34bc89589",
+
+    "image3": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/1b8bcec3-2666-d6cb-9eb3-f556487b61bd.jpg",
+    "linkToDeal3": "https://click.i.forever21.com/u/?qs=2a509f83cb739d85086717f9590be0e024622fdf155cbd57a5ca65ed2e2ae6d87e46707dd6c2e594207b8a6b8a72a276654978c81881d2faf2e8212053ff90d4"
+  },
+
+  "shopNowBanner": {
+    "image": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/6bcc7221-1fd0-aff6-fef1-11c42c038285.jpg",
+    "linkToBanner": "https://click.i.forever21.com/u/?qs=2a509f83cb739d85f1d748d2cceb05182fda1884983e4356534ba5ce5a6f0407861fe1864192cd9542bbe407d17ab8de0379ca7af5f46212a272946f32286bbc"
+  },
+
+  "boGO": {
+    "image": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/9580f786-92dc-2eb2-d0b9-9b73ba4b6164.jpg",
+    "linkToDeal": "https://click.i.forever21.com/u/?qs=2a509f83cb739d8531cba051546c747484c92952a3ae83f89a0822d411e5f350bd0e291206c451a726fb6c552eb2a5b4697ed7b71a6be890722b65bb30f16a19"
+  },
+
+  "flashSale": {
+    "image": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/a50998ee-ecde-3753-cb47-559d727c3881.jpg",
+    "linkToBanner": "https://click.i.forever21.com/u/?qs=2a509f83cb739d85b832c8618b57a1893b75e297a842d067d7a264827ed90eeb5fecf0bd9cc6ee01ebebd70bb4ea72750206d57ca64dec03c843e8ba14f2560b"
+  },
+
+  "appLinks": {
+    "image1": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/4f845558-13ef-c789-d0ef-4735a6c1837d.jpg",
+    "linkToApp1": "https://click.i.forever21.com/u/?qs=2a509f83cb739d8565ae0204765a9b1ed55d75b35d02c03d8ff7f5b7c5b0a20ca27f74cf21ffe29358b002617b5ad788522251a1d954779599212a774ff4100b"
+  },
+
+  "rewardCard": {
+    "image": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/8295a490-5f56-3969-8167-fa02ca37d592.jpg",
+    "linkToCard": "https://click.i.forever21.com/u/?qs=2a509f83cb739d851275f5b935b673a00a7cf0d5ca38333c59331326993d67b8942d85d8466df3b856960c899f8aa4383dc9516e614be2f54fb6d99da9af060c"
+  },
+
+  "socialLinks": {
+    "image1": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/22bdfbc8-c645-6e4a-2503-afbc72cede13.png",
+    "linkToSocial1": "https://click.i.forever21.com/u/?qs=2a509f83cb739d8581228d1d4bca0088cf450a8030f5e4bb56cdc3281c8baff6e7d939a56790b8a89f247e201f68523870b93a9e108711c5b769f8beafdc8260",
+
+    "image2": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/526cf012-a9bd-5f28-c224-a310212f9d1e.png",
+    "linkToSocial2": "https://click.i.forever21.com/u/?qs=2a509f83cb739d85c1bc4573ccabd666394d7dd16bb29aa7cdc630f8c5bd4a3db1ec8e5a4d9b08096813fa968b08aeb496ec87b7f979b8e897762dd367067a7d",
+
+    "image3": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/cd95c86a-ca2d-26f6-a2b2-927b5436ed8c.png",
+    "linkToSocial3": "https://click.i.forever21.com/u/?qs=2a509f83cb739d851988db7a3417c458e736dc7321eae5591ff0113ab7090279f1e618784b7ab5cea873c7e1a66b6be5e50ab56059f2b881e3a9f9eb6127cbd6",
+
+    "image4": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/4c91ffc1-4c79-4788-f6d3-bd4b73851460.png",
+    "linkToSocial4": "https://click.i.forever21.com/u/?qs=2a509f83cb739d85ac34c29436d8ae63a71e15cdaaacf53df51e6a58fb4abfd8104cb46bab447a6b1c1b3ece6abbe592c079eb57a6817eee7140bceef08d9842",
+
+    "image5": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/9ead7968-8cc4-8cb5-7ae8-91597a99eb0b.png",
+    "linkToSocial5": "https://click.i.forever21.com/u/?qs=2a509f83cb739d855c6d07eb35ace46a1130e681a1b56db6e04638febca16dff4274dcbdbfdd10312b9de11afd5fef9689ac69b27d756557e8c0acabff23aa08",
+
+    "image6": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/0646a90b-2291-6090-ba39-72c3e706e14c.png",
+    "linkToSocial6": "https://click.i.forever21.com/u/?qs=2a509f83cb739d856fdda5b79c29b75ae6e5202cda694d00bffa63a4e179ccebaffd1c687025a557af0c2244c3de8f6956783c18a749f318f1ab15c5ac4b4424"
+  },
+
+  "blackBar": {
+    "image": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/d0081003-66b1-7c44-f0b8-26ffb2c486f9.png",
+    "link": "https://click.i.forever21.com/u/?qs=2a509f83cb739d856fdda5b79c29b75ae6e5202cda694d00bffa63a4e179ccebaffd1c687025a557af0c2244c3de8f6956783c18a749f318f1ab15c5ac4b4424"
+  },
+
+  "logo2": {
+    "image": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/a97bdc8c-6cce-5d9f-09e3-19d8b2ce01dd.png",
+    "linkToLogo": "https://click.i.forever21.com/u/?qs=2a509f83cb739d85163c9c6fd68c182f7c44b5f16a8171b523ff9f2fcba360ef4822702c45813377c3dae661e698b7e6766272fb1abee768dc3df2eecabfc800"
+  },
+
+  "location": {
+    "image": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/d1dab3cf-6e99-266b-bc66-7db8241269ae.png",
+    "link": "https://click.i.forever21.com/u/?qs=2a509f83cb739d85bc0c0ff48571d5725ceab21c640825b075de3536fa0fe87586e6a995839916945a1f45f2ffb1cf7a2a8bb66055e10e48c5b83d67aebdb1a1"
   }
-  
+}
