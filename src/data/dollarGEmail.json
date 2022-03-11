@@ -1,132 +1,88 @@
 {
-  "logo1": {
-    "image": "",
-    "linkToLogo": ""
+  "dollarHeader": {
+    "logo": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/22de7f9e-1252-ad88-4685-cb28d401681f.png",
+
+    "linkToLogo": "https://dollargeneralmarketing.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlDQG52kSfBrY97azdtu0MkgsNzgHBNIzbzdu5ACEfyPLozg04NzeUWU9aVXtpKX%3DYRSAD&_ei_=EW2tf9zs59idfPO1Sc_9BbmtV4ToFicAtO-moY-fNam5VOMjEgvzA9XomMfyJHVvhXjOP7lcBuVSl2BNcqYgZ_JIspYjaKI3xjSyHXVQvbwF0EKjpOAAeGlX8VM.&_di_=7hjin1ek0e4d4io0nf898a5jcdcqi7gnspoj2t5jkfpvu6nct9vg",
+
+    "nav1": "CURRENT AD",
+
+    "linkToNav1": "https://dollargeneralmarketing.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlDQG52kSfBrY97azdtu0MkgsNzgHBNIzbzdu5ACEfyPLozg04NzeUWU9aVXtpKX%3DYRSCD&_ei_=EW2tf9zs59idfPO1Sc_9BbmtV4ToFicAtO-moY-fNam5VOMjEgvzA9XomMfyJHVvhXjOP7lcBuVSl2BNcqYgZ_JIspYjaKI3xjSyHXVQvbwF0EKjpOAAeGlX8VM.&_di_=68jd1tjgfac5fvv818cpj8mtd4omedp0ispn4k9s37ufpiqsc8l0",
+
+    "nav2": "COUPONS",
+
+    "linkToNav2": "https://dollargeneralmarketing.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlDQG52kSfBrY97azdtu0MkgsNzgHBNIzbzdu5ACEfyPLozg04NzeUWU9aVXtpKX%3DYRTRD&_ei_=EW2tf9zs59idfPO1Sc_9BbmtV4ToFicAtO-moY-fNam5VOMjEgvzA9XomMfyJHVvhXjOP7lcBuVSl2BNcqYgZ_JIspYjaKI3xjSyHXVQvbwF0EKjpOAAeGlX8VM.&_di_=nmmmqo4ua1jn22mh4ro47b6ipsdg602e44a0nigb05l6sc97oms0",
+
+    "nav3": "DG APP",
+
+    "linkToNav3": "https://dollargeneralmarketing.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlDQG52kSfBrY97azdtu0MkgsNzgHBNIzbzdu5ACEfyPLozg04NzeUWU9aVXtpKX%3DYRTTD&_ei_=EW2tf9zs59idfPO1Sc_9BbmtV4ToFicAtO-moY-fNam5VOMjEgvzA9XomMfyJHVvhXjOP7lcBuVSl2BNcqYgZ_JIspYjaKI3xjSyHXVQvbwF0EKjpOAAeGlX8VM.&_di_=mb7isqbjpbveomv1j8ulkph75c68icr6qj3kigkfo4d0186ot69g",
+
+    "nav4": "SHOP ONLINE",
+
+    "linkToNav4": "https://dollargeneralmarketing.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlDQG52kSfBrY97azdtu0MkgsNzgHBNIzbzdu5ACEfyPLozg04NzeUWU9aVXtpKX%3DYRTWD&_ei_=EW2tf9zs59idfPO1Sc_9BbmtV4ToFicAtO-moY-fNam5VOMjEgvzA9XomMfyJHVvhXjOP7lcBuVSl2BNcqYgZ_JIspYjaKI3xjSyHXVQvbwF0EKjpOAAeGlX8VM.&_di_=3t0kd4dke4i10gom8r8ncagr6ph505av4478067fg6seq401q3f0"
   },
 
-  "weekendSales": {
-    "image": "",
-    "linkToDeal": ""
+  "hero": {
+    "image": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/2a73daa1-19ac-12c9-8e21-8059cdab831f.jpg",
+    "linkToDeal": "https://dollargeneralmarketing.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlDQG52kSfBrY97azdtu0MkgsNzgHBNIzbzdu5ACEfyPLozg04NzeUWU9aVXtpKX%3DYRTAD&_ei_=EW2tf9zs59idfPO1Sc_9BbmtV4ToFicAtO-moY-fNam5VOMjEgvzA9XomMfyJHVvhXjOP7lcBuVSl2BNcqYgZ_JIspYjaKI3xjSyHXVQvbwF0EKjpOAAeGlX8VM.&_di_=e39logmkv43tmpei36fpd43cr15pe6vuo4qfuqatlhb3k2oq8jq0"
   },
 
-  "threeItemsRow1": {
-    "image1": "",
-    "linkToDeal1": "",
+  "dealItems": {
+    "image1": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/f36a2b02-34ea-d41c-416e-ae86d354b62f.jpg",
+    "linkToDeal1": "https://dollargeneralmarketing.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlDQG52kSfBrY97azdtu0MkgsNzgHBNIzbzdu5ACEfyPLozg04NzeUWU9aVXtpKX%3DYRTCD&_ei_=EW2tf9zs59idfPO1Sc_9BbmtV4ToFicAtO-moY-fNam5VOMjEgvzA9XomMfyJHVvhXjOP7lcBuVSl2BNcqYgZ_JIspYjaKI3xjSyHXVQvbwF0EKjpOAAeGlX8VM.&_di_=ni7uvi5viprej6j2iraigmn1hs35ll53bjl8biub1vik89siicj0",
 
-    "image2": "",
-    "linkToDeal2": "",
+    "image2": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/136b5467-8f5d-8dbe-e83c-1779b7f57e5e.jpg",
+    "linkToDeal2": "https://dollargeneralmarketing.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlDQG52kSfBrY97azdtu0MkgsNzgHBNIzbzdu5ACEfyPLozg04NzeUWU9aVXtpKX%3DYRURD&_ei_=EW2tf9zs59idfPO1Sc_9BbmtV4ToFicAtO-moY-fNam5VOMjEgvzA9XomMfyJHVvhXjOP7lcBuVSl2BNcqYgZ_JIspYjaKI3xjSyHXVQvbwF0EKjpOAAeGlX8VM.&_di_=q4t17980ejua49h2gmfu712o0cs39jj23etnjmftusnod173p1bg",
 
-    "image3": "",
-    "linkToDeal3": ""
+    "image3": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/9eb73e23-3e2b-97fb-1f51-ebe2620028ff.jpg",
+    "linkToDeal3": "https://dollargeneralmarketing.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlDQG52kSfBrY97azdtu0MkgsNzgHBNIzbzdu5ACEfyPLozg04NzeUWU9aVXtpKX%3DYRUTD&_ei_=EW2tf9zs59idfPO1Sc_9BbmtV4ToFicAtO-moY-fNam5VOMjEgvzA9XomMfyJHVvhXjOP7lcBuVSl2BNcqYgZ_JIspYjaKI3xjSyHXVQvbwF0EKjpOAAeGlX8VM.&_di_=m7895o4klqhh75jpfjngd9cil7u89d45hgvq76mu22643573sv9g",
+
+    "image4": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/9f5e65c0-04e6-7e3e-be79-8044fdde4089.jpg",
+    "linkToDeal4": "https://dollargeneralmarketing.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlDQG52kSfBrY97azdtu0MkgsNzgHBNIzbzdu5ACEfyPLozg04NzeUWU9aVXtpKX%3DYRUWD&_ei_=EW2tf9zs59idfPO1Sc_9BbmtV4ToFicAtO-moY-fNam5VOMjEgvzA9XomMfyJHVvhXjOP7lcBuVSl2BNcqYgZ_JIspYjaKI3xjSyHXVQvbwF0EKjpOAAeGlX8VM.&_di_=ci79kb7u7re9dshrutre0fb509l0dlckupe8h0m8fjd6bffolnk0",
+
+    "image5": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/2ff9a295-56f2-477a-505b-7e705dd1e061.jpg",
+    "linkToDeal5": "https://dollargeneralmarketing.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlDQG52kSfBrY97azdtu0MkgsNzgHBNIzbzdu5ACEfyPLozg04NzeUWU9aVXtpKX%3DYRUAD&_ei_=EW2tf9zs59idfPO1Sc_9BbmtV4ToFicAtO-moY-fNam5VOMjEgvzA9XomMfyJHVvhXjOP7lcBuVSl2BNcqYgZ_JIspYjaKI3xjSyHXVQvbwF0EKjpOAAeGlX8VM.&_di_=erotoiul4ubds8isr557e5rrai9t6f9pcunh9bu375teb9uabu4g",
+
+    "image6": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/28938183-0fa2-72f7-69cc-02588219f99e.jpg",
+    "linkToDeal6": "https://dollargeneralmarketing.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlDQG52kSfBrY97azdtu0MkgsNzgHBNIzbzdu5ACEfyPLozg04NzeUWU9aVXtpKX%3DYRUCD&_ei_=EW2tf9zs59idfPO1Sc_9BbmtV4ToFicAtO-moY-fNam5VOMjEgvzA9XomMfyJHVvhXjOP7lcBuVSl2BNcqYgZ_JIspYjaKI3xjSyHXVQvbwF0EKjpOAAeGlX8VM.&_di_=smv7ldjukcanughd8fdtcg92gfac2ptjiil05baqnfhm9e9apab0"
   },
 
-  "twoMedOneBigColumn": {
-    "image1": "",
-    "linkToDeal1": "",
-
-    "image2": "",
-    "linkToDeal2": "",
-
-    "image3": "",
-    "linkToDeal3": "",
-
-    "image4": "",
-    "linkToDeal4": ""
-  },
-
-  "threeItemsRow2": {
-    "image1": "",
-    "linkToDeal1": "",
-
-    "image2": "",
-    "linkToDeal2": "",
-
-    "image3": "",
-    "linkToDeal3": ""
-  },
-
-  "shopNowBanner": {
-    "image": "",
-    "linkToBanner": ""
-  },
-
-  "boGO": {
-    "image": "",
-    "linkToDeal": ""
-  },
-
-  "flashSale": {
-    "image": "",
-    "linkToBanner": ""
-  },
-
-  "appLinks": {
-    "image1": "",
-    "linkToApp1": "",
-
-    "image2": "",
-    "linkToApp2": ""
-  },
-
-  "rewardCard": {
-    "image": "",
-    "linkToCard": ""
+  "dgPickUp": {
+    "image": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/2db19153-fc27-4ba1-2332-049cf372cf60.jpg",
+    "linkToDeal": "https://dollargeneralmarketing.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlDQG52kSfBrY97azdtu0MkgsNzgHBNIzbzdu5ACEfyPLozg04NzeUWU9aVXtpKX%3DYRWRD&_ei_=EW2tf9zs59idfPO1Sc_9BbmtV4ToFicAtO-moY-fNam5VOMjEgvzA9XomMfyJHVvhXjOP7lcBuVSl2BNcqYgZ_JIspYjaKI3xjSyHXVQvbwF0EKjpOAAeGlX8VM.&_di_=aii7tipc12od95s3gh7tjrspet6kmgcubsultgvvn27rajgi9iig"
   },
 
   "socialLinks": {
-    "image1": "",
-    "linkToSocial1": "",
+    "image1": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/070fe0e7-1787-25c3-59ce-a465ac3a27a0.png",
+    "linkToSocial1": "https://dollargeneralmarketing.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlDQG52kSfBrY97azdtu0MkgsNzgHBNIzbzdu5ACEfyPLozg04NzeUWU9aVXtpKX%3DYRWTD&_ei_=EW2tf9zs59idfPO1Sc_9BbmtV4ToFicAtO-moY-fNam5VOMjEgvzA9XomMfyJHVvhXjOP7lcBuVSl2BNcqYgZ_JIspYjaKI3xjSyHXVQvbwF0EKjpOAAeGlX8VM.&_di_=n0spirdbljh9ecog8puc35m9mqg440g80651jb7vdn9d3q1g8t10",
 
-    "image2": "",
-    "linkToSocial2": "",
+    "image2": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/60149f31-331e-b79e-6a88-44e7de1068b9.png",
+    "linkToSocial2": "https://dollargeneralmarketing.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlDQG52kSfBrY97azdtu0MkgsNzgHBNIzbzdu5ACEfyPLozg04NzeUWU9aVXtpKX%3DYRWWD&_ei_=EW2tf9zs59idfPO1Sc_9BbmtV4ToFicAtO-moY-fNam5VOMjEgvzA9XomMfyJHVvhXjOP7lcBuVSl2BNcqYgZ_JIspYjaKI3xjSyHXVQvbwF0EKjpOAAeGlX8VM.&_di_=gisbv42lguao3bn9g8vuj509rclmc9cgvlp3st9emhfosg944rb0",
 
-    "image3": "",
-    "linkToSocial3": "",
+    "image3": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/154e9168-9432-a3f7-0406-47491a439103.png",
+    "linkToSocial3": "https://dollargeneralmarketing.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlDQG52kSfBrY97azdtu0MkgsNzgHBNIzbzdu5ACEfyPLozg04NzeUWU9aVXtpKX%3DYRWAD&_ei_=EW2tf9zs59idfPO1Sc_9BbmtV4ToFicAtO-moY-fNam5VOMjEgvzA9XomMfyJHVvhXjOP7lcBuVSl2BNcqYgZ_JIspYjaKI3xjSyHXVQvbwF0EKjpOAAeGlX8VM.&_di_=is3s15ku4tsrcrhi92ahk5fpae1eh0a1krfaeg1476n7ali0j8c0",
 
-    "image4": "",
-    "linkToSocial4": "",
+    "image4": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/e60edea8-d511-e3d3-d0cc-26f4c8541f7a.png",
+    "linkToSocial4": "https://dollargeneralmarketing.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlDQG52kSfBrY97azdtu0MkgsNzgHBNIzbzdu5ACEfyPLozg04NzeUWU9aVXtpKX%3DYRWCD&_ei_=EW2tf9zs59idfPO1Sc_9BbmtV4ToFicAtO-moY-fNam5VOMjEgvzA9XomMfyJHVvhXjOP7lcBuVSl2BNcqYgZ_JIspYjaKI3xjSyHXVQvbwF0EKjpOAAeGlX8VM.&_di_=uojkm1mpocn1t1rggarmp8ejp0mopbl4rcr1evhnba4f34ig71cg",
 
-    "image5": "",
-    "linkToSocial5": "",
+    "image5": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/f740374b-099c-eb13-03c1-ba3b0cf04b11.png",
+    "linkToSocial5": "https://dollargeneralmarketing.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlDQG52kSfBrY97azdtu0MkgsNzgHBNIzbzdu5ACEfyPLozg04NzeUWU9aVXtpKX%3DYRYRD&_ei_=EW2tf9zs59idfPO1Sc_9BbmtV4ToFicAtO-moY-fNam5VOMjEgvzA9XomMfyJHVvhXjOP7lcBuVSl2BNcqYgZ_JIspYjaKI3xjSyHXVQvbwF0EKjpOAAeGlX8VM.&_di_=kfgi923n76rqt6ckrathgsujpup3lbqlegc5j95h2fa0apfmff7g",
 
-    "image6": "",
-    "linkToSocial6": ""
+    "image6": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/69981f6c-0ccf-d074-f558-eeab25e310a9.png",
+    "linkToSocial6": "https://dollargeneralmarketing.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlDQG52kSfBrY97azdtu0MkgsNzgHBNIzbzdu5ACEfyPLozg04NzeUWU9aVXtpKX%3DYRYTD&_ei_=EW2tf9zs59idfPO1Sc_9BbmtV4ToFicAtO-moY-fNam5VOMjEgvzA9XomMfyJHVvhXjOP7lcBuVSl2BNcqYgZ_JIspYjaKI3xjSyHXVQvbwF0EKjpOAAeGlX8VM.&_di_=0fj9bkkbc4suus54vj5fj03l78edbkc6nel4dn9rjbgu9op9mujg",
+
+    "image7": "https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/77be84ab-bb87-337d-c6b4-3f97269fd969.png",
+    "linkToSocial7": "https://dollargeneralmarketing.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlDQG52kSfBrY97azdtu0MkgsNzgHBNIzbzdu5ACEfyPLozg04NzeUWU9aVXtpKX%3DYRYWD&_ei_=EW2tf9zs59idfPO1Sc_9BbmtV4ToFicAtO-moY-fNam5VOMjEgvzA9XomMfyJHVvhXjOP7lcBuVSl2BNcqYgZ_JIspYjaKI3xjSyHXVQvbwF0EKjpOAAeGlX8VM.&_di_=b6i0va7loc5pbagq2ue7vkf1aq8so6756smu1dlpnennabfjmpi0"
   },
 
-  "blackBar1": {
-    "image": "",
-    "link": ""
-  },
+  "footerNav": {
+    "text1": "CAREERS",
+    "textLink1": "https://dollargeneralmarketing.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlDQG52kSfBrY97azdtu0MkgsNzgHBNIzbzdu5ACEfyPLozg04NzeUWU9aVXtpKX%3DYRYAD&_ei_=EW2tf9zs59idfPO1Sc_9BbmtV4ToFicAtO-moY-fNam5VOMjEgvzA9XomMfyJHVvhXjOP7lcBuVSl2BNcqYgZ_JIspYjaKI3xjSyHXVQvbwF0EKjpOAAeGlX8VM.&_di_=15cao77id4vs4mgc2ah93u3a2jf264qnpf6q3qmmpmkposg4onhg",
 
-  "logo2": {
-    "image": "",
-    "linkToLogo": ""
-  },
+    "text2": "LOCATIONS",
+    "textLink2": "https://dollargeneralmarketing.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlDQG52kSfBrY97azdtu0MkgsNzgHBNIzbzdu5ACEfyPLozg04NzeUWU9aVXtpKX%3DYRYCD&_ei_=EW2tf9zs59idfPO1Sc_9BbmtV4ToFicAtO-moY-fNam5VOMjEgvzA9XomMfyJHVvhXjOP7lcBuVSl2BNcqYgZ_JIspYjaKI3xjSyHXVQvbwF0EKjpOAAeGlX8VM.&_di_=qk3ruqjku4mqs4mja6le653ua3b4ae35mbejmjtbqmrm8a9gnlg0",
 
-  "blackBar2": {
-    "image": "",
-    "link": ""
-  },
-
-  "location": {
-    "image": "",
-    "link": ""
-  },
-
-  "textBox1": {
-    "boldText1": "",
-    "text1": "",
-
-    "boldText2": "",
-    "text2": "",
-
-    "boldText3": "",
-    "text3": "",
-
-    "boldText4": "",
-    "text4": "",
-
-    "text5": ""
+    "text3": "VIEW ONLINE",
+    "textLink3": "https://dollargeneralmarketing.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlDQG52kSfBrY97azdtu0MkgsNzgHBNIzbzdu5ACEfyPLozg04NzeUWU9aVXtpKX%3DYRARD&_ei_=EQJ7CGJKY6hJ4dKIBX-KjI_aoNUgwW-o9gqf5XNiMwhsj0Fjc7mb82T2qk-_a06TItRTANVBjA4WEe6TeE_qFMRTf_BU-8ES9xHG6AqYemi5FecCto9xuj_90mtX8sD8qJozXL6DtR9rIrO-iWzw5cXlfefQlnYHS713bOENNr5fxs0VIV-K.&_di_=7u1n7r34d8qcp55m3rbqquj568h5df8ntegdj3d0bqeqv1a51r3g"
   },
 
   "textBox2": {

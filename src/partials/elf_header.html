@@ -1,21 +1,23 @@
 <container>
-    <row class="elf-header" style="margin-top: 20px !important;">
-      <columns small="12" large="12" style=" padding: 0 16px !important;">
-        <row class="header-text">
-            <columns  small="12" large="12" style="padding: 0 !important;">
-                <p style="font-family: 'Assistant', Arial, sans-serif;
+  <row class="elf-header" style="margin-top: 20px !important;">
+    <columns small="12" large="12" style=" padding: 0 16px !important;">
+      <row class="header-text">
+        <columns small="12" large="12" style="padding: 0 !important;">
+          <p style="font-family: 'Assistant', Arial, sans-serif;
                 font-size: 11px;
                 line-height: normal;
                 text-align: center;
-                margin-bottom:3px;"><a href="http://click.e.elfcosmetics.com/?qs=62d653de483e8c920480b2c0091703e0feb41df7c1fdec0ff77dba6deae6f14550728d3b7ca89f1a6bd4d7bea4b7c5a43d252c6605a5290301317464d145cd09" style="color: #000001;">The MAKE IT BLACK collection is a cross-branded collection of products sold at ulta.com</a></p>
-            </columns>
-        </row>
-        <row class="logo">
-          <columns small="12" large="12" style="padding: 0 !important;">
-            <a href="http://click.e.elfcosmetics.com/?qs=62d653de483e8c92befcc3318835635f5aab6d736f2f0bd000816a698ab11283487cb3e9c528c02ab176066534e2ad8cc8dad6d6cf6ad31614cc9cab42dfc822"><img src="https://ecp.yusercontent.com/mail?url=http%3A%2F%2Fimage.e.elfcosmetics.com%2Flib%2Ffe3715707564047c7c1178%2Fm%2F11%2F55dc5e00-3cf5-4cf6-b3e4-95412d49e5eb.jpg&t=1644250304&ymreqid=640752e0-1570-f1b5-1c8b-770000010200&sig=naElyo3jWnvT3PRXRNg5JQ--~D" alt=""></a>
-          </columns>
-        </row>
-      </columns>
-    </row>
-  </container>
-  
+                margin-bottom:3px;"><a href="{{elfEmail.headerElf.textLink}}" style="color: #000001;">{{elfEmail.headerElf.text}}</a></p>
+        </columns>
+      </row>
+      <row class="logo">
+        <columns small="12" large="12" style="padding: 0 !important;">
+          <a
+            href="{{elfEmail.headerElf.logoLink}}"><img
+              src="{{elfEmail.headerElf.logo}}"
+              alt=""></a>
+        </columns>
+      </row>
+    </columns>
+  </row>
+</container>
