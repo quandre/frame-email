@@ -69,12 +69,14 @@
   }
   .social-area {
     margin-top: 10px !important;
-    
+    & > tbody > tr {
+      text-align: center;
+    }
     & > tbody > tr > th {
       padding: 0 !important;
     }
     .icon-box {
-      margin: 0 14px !important;
+      margin: 0 7px !important;
     }
     .icon {
       max-width: 50px !important;
